@@ -1,4 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Reid","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Reid1","classId":1,"equips":[11,0,0,3,0],"faceIndex":0,"faceName":"mono","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mono","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[11,0,0,0,0],"faceIndex":0,"faceName":"duo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Duo","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[11,0,0,0,0],"faceIndex":0,"faceName":"third","traits":[],"initialLevel":1,"maxLevel":99,"name":"Third","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[11,0,0,0,0],"faceIndex":0,"faceName":"quatro","traits":[],"initialLevel":1,"maxLevel":99,"name":"Quatro","nickname":"","note":"","profile":""}
 ]
